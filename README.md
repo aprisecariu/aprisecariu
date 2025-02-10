@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aprisecariu&" alt="aprisecariu" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aprisecariu" alt="aprisecariu" /></p>
 </div>
 
 ###
